@@ -8,14 +8,14 @@ I am a **Lead Data Scientist** passionate about AI, machine learning, and solvin
 ## 🔗 Demo
 
 Check out the live demo here:  
-🌐 [https://prameelareddi.github.io/prameela_portfolio/](https://prameelareddi.github.io/prameela_portfolio/)
+🌐 [https://prameelareddi.github.io/portfolio/](https://prameelareddi.github.io/portfolio/)
 
 ---
 
 ## ✨ Features
 
 - 📝 **About Me**: A brief introduction  
-- 💼 **Experience**: 3+ years in data science roles  
+- 💼 **Experience**: 4+ years in data science roles  
 - 🛠 **Skills**: Generative AI, Machine Learning, Deep Learning, NLP, Python/SQL  
 - 📫 **Contact**: Email, GitHub, and LinkedIn links with icons  
 - 🎨 **Responsive** and clean design for easy viewing on all devices  
